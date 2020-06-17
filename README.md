@@ -6,7 +6,7 @@ If you like any of my work please feel free to contact me related to any project
 
 ## **Topics**:
 
-- [ ] Data Acquisition
+- [x] Data Acquisition
 - [ ] Numpy
 - [ ] Data Visualization
 - [ ] Seaborn
