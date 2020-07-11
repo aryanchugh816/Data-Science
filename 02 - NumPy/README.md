@@ -27,6 +27,6 @@
    - variance
    - standard deviation
 
-## **Article** : [Numpy Basics for Machine Learning]()
+## **Article** : [Numpy Basics for Machine Learning](https://medium.com/@chugharyan816/numpy-basics-for-machine-learning-4e5e0af3b0c3)
 
 ### If you like any of my work please feel free to contact me related to any project collaboration or job opportunity
