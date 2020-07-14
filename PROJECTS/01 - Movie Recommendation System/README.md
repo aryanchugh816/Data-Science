@@ -2,6 +2,8 @@
 
 ### This is a simple project that uses basic linear algebra and libraries like Numpy, pandas and seaborn to create a **content-based recommender system**.<br>There is a python notebook for **explanation of the applied concepts used for building this project from scratch**, please [click here](<https://github.com/aryanchugh816/Data-Science/blob/master/PROJECTS/01%20-%20Movie%20Recommendation%20System/Movie%20Recommendation%20System%20(%20Content%20Based%20).ipynb>) to visit it.<br><br>This project is built using Streamlit and hosted on Heroku, you can see the ["_index.py_"](https://github.com/aryanchugh816/Data-Science/blob/master/PROJECTS/01%20-%20Movie%20Recommendation%20System/index.py) file for the source code.<br><br>_Link to an article explaining this whole code and concept will be uploaded soon._
 
+## [Click here](https://movie-recommendation-system816.herokuapp.com/) to visit this project (deployed on Heroku)
+
 ## **Highlights:**
 
 1. Full movies database can be viewed at a glance on the home page<br><br>

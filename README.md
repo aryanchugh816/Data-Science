@@ -6,8 +6,8 @@ If you like any of my work please feel free to contact me related to any project
 
 ## **Topics**:
 
-- [x] Data Acquisition
-- [x] Numpy
+- [x] [Data Acquisition](https://github.com/aryanchugh816/Data-Science/tree/master/01%20-%20Data%20Acquisition)
+- [x] [Numpy](https://github.com/aryanchugh816/Data-Science/tree/master/02%20-%20NumPy)
 - [ ] Linear Algebra (For Machine Learning)
 - [ ] Data Visualization
 - [ ] Seaborn
@@ -26,7 +26,7 @@ I will also write an article explaining the basics of each topic with code expla
 
 ## **Projects**:
 
-- Movie Recommendation System (Content Based)
+- [Movie Recommendation System (Content Based)](https://github.com/aryanchugh816/Data-Science/tree/master/PROJECTS/01%20-%20Movie%20Recommendation%20System)
 
 > I would like everybody to check out the website of Coding Blocks where I started my journey of machine learning. They have a lot of great mentors and one of the best courses you can find online or offline.
 > Click here to go to [Coding Blocks](https://codingblocks.com/)
