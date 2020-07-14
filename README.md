@@ -24,5 +24,9 @@ I will also write an article explaining the basics of each topic with code expla
 | 3    | Linear Algebra (For Machine Learning) | 25.07.2020 |
 | 4    | Data Visualization                    | 30.07.2020 |
 
+## **Projects**:
+
+- Movie Recommendation System (Content Based)
+
 > I would like everybody to check out the website of Coding Blocks where I started my journey of machine learning. They have a lot of great mentors and one of the best courses you can find online or offline.
 > Click here to go to [Coding Blocks](https://codingblocks.com/)
