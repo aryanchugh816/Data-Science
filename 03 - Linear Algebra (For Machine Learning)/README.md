@@ -18,6 +18,6 @@
    - Inverse
    - Solve a System of Linear Equations
 
-## **Article** : [Linear Algebra Concepts (For Machine Learning)]()
+## **Article** : [Linear Algebra Concepts (For Machine Learning)](https://medium.com/@chugharyan816/linear-algebra-concepts-for-machine-learning-fa7549c6a722)
 
 ### If you like any of my work please feel free to contact me related to any project collaboration or job opportunity

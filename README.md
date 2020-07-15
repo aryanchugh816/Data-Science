@@ -8,7 +8,7 @@ If you like any of my work please feel free to contact me related to any project
 
 - [x] [Data Acquisition](https://github.com/aryanchugh816/Data-Science/tree/master/01%20-%20Data%20Acquisition)
 - [x] [Numpy](https://github.com/aryanchugh816/Data-Science/tree/master/02%20-%20NumPy)
-- [ ] Linear Algebra (For Machine Learning)
+- [x] [Linear Algebra (For Machine Learning)](<https://github.com/aryanchugh816/Data-Science/tree/master/03%20-%20Linear%20Algebra%20(For%20Machine%20Learning)>)
 - [ ] Data Visualization
 - [ ] Seaborn
 - [ ] Pandas
